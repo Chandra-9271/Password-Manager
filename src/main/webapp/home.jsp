@@ -17,7 +17,6 @@
 <div class="main-content">
 <video autoplay muted loop playsinline class="bg-video">
         <source src="images/video2.mp4" type="video/mp4">
-        Your browser does not support HTML5 video.
     </video>
     <h1>🔐 Welcome to SafeVault</h1>
     <p>Your secure solution to store, generate and manage your passwords effortlessly.</p>
